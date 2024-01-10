@@ -5,20 +5,13 @@
 I am Atharva Jayappa, a Computer Engineering undergrad. A logical thinker with a knack for solving puzzles, I am always on the lookout for opportunities for learning and growth. 
 
 My primary interests lie in the field of and **Machine Learning**, particularly the fields of **Deep Learning** and **Natural Language Processing (NLP)**.
-<br>
-
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva-Jayappa&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
-
-<br>
-
-![Pranav Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Jayappa&show_icons=true&theme=tokyonight)
-
-<br>
+<br><br>
+ 
 
 
 
-![](https://komarev.com/ghpvc/?username=Atharva-Jayappa&color=blueviolet)
+
+
 
 <!--img align="center" alt="Coding" width="1000" src="https://wallpapercave.com/wp/wp5805427.gif"/>
 
