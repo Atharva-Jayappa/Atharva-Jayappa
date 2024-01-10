@@ -1,7 +1,52 @@
-### Hi there 👋
+<!--![Profile Banner](ezgif.com-add-text.gif)-->
+
+## Hello there! 👋
+<br/>
+I am Atharva Jayappa, a Computer Engineering undergrad. A logical thinker with a knack for solving puzzles, I am always on the lookout for opportunities for learning and growth. 
+
+My primary interests lie in the field of and **Machine Learning**, particularly the fields of **Deep Learning** and **Natural Language Processing (NLP)**.
+<br>
+
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva-Jayappa&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
+
+<br>
+
+![Pranav Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Jayappa&show_icons=true&theme=tokyonight)
+
+<br>
+
+
+
+![](https://komarev.com/ghpvc/?username=Atharva-Jayappa&color=blueviolet)
+
+<!--img align="center" alt="Coding" width="1000" src="https://wallpapercave.com/wp/wp5805427.gif"/>
+
+
+<!-- 
+I'm Pranav Joshi, an undergraduate at VIT Pune, studying Computer Engineering
+
+## About Me
+
+## Projects
+
+### Project 1: 
+Description: 
+
+### Project 2: 
+Description: 
+
+## Contributions
+- 
+- 
+
+## Find Me Online
+- [Personal Website]()
+- [LinkedIn]() -->
+
 
 <!--
-**Atharva-Jayappa/Atharva-Jayappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phoen1xsan/phoen1xsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
