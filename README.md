@@ -7,6 +7,7 @@ I am Atharva Jayappa, a Computer Engineer with a knack for solving puzzles, I am
 My primary interests lie in the field of and **Artificial Intelligence**, particularly the fields of **Deep Learning** and **Natural Language Processing (NLP)**.
 <br><br>
  
+[Huggingface](https://huggingface.co/Atharva-Jayappa)
 
 
 
